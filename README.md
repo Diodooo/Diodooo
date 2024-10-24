@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo da Silveira</h1>
-<h3 align="center">A Fullstack developer from Brazil! I love everything that has to do with logic and creativity, which is why I chose to become a software developer. I consider my code a piece of art that reaches its peak when quality, reusability, and coding standards are established.</h3>
+<h3 align="center">A Fullstack developer from Brazil! I love everything that has to do with logic and creativity, which is why I chose to become a software developer. I consider code a piece of art that reaches its peak when quality, reusability, and coding standards are established.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diodooo&label=Profile%20views&color=0e75b6&style=flat" alt="diodooo" /> </p>
 
